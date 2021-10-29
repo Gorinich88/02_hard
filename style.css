@@ -8,3 +8,22 @@ body {
   justify-content: center;
   padding-top: 20px;
 }
+.picture_back {
+  margin: 0 auto;
+  background-color: black;
+  
+}
+.images {
+display: flex;
+justify-content: center;
+  
+}
+figure>img {
+  margin-top: 10px;
+  width: 150px;
+  height: 130px;
+}
+figcaption {
+  color: white;
+  text-align: center;
+}
